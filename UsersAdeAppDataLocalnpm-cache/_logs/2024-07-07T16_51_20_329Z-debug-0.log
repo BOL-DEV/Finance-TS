@@ -1,0 +1,11 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.7.0
+2 info using node@v22.1.0
+3 silly config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config:load:file:C:\Users\Ade\.npmrc
+5 silly config:load:file:C:\Users\Ade\Desktop\Finance ts\UsersAdeAppDataRoamingnpm\etc\npmrc
+6 verbose title npm exec tsc app.ts -w
+7 verbose argv "exec" "--" "tsc" "app.ts" "-w"
+8 verbose logfile logs-max:10 dir:C:\Users\Ade\Desktop\Finance ts\UsersAdeAppDataLocalnpm-cache\_logs\2024-07-07T16_51_20_329Z-
+9 verbose logfile C:\Users\Ade\Desktop\Finance ts\UsersAdeAppDataLocalnpm-cache\_logs\2024-07-07T16_51_20_329Z-debug-0.log
+10 silly logfile done cleaning log files
